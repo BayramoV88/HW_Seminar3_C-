@@ -1,0 +1,15 @@
+/Users/vadimbayramov/Desktop/HW_Seminar3_C#/Zadacha21/obj/Debug/net6.0/Zadacha21.csproj.AssemblyReference.cache
+/Users/vadimbayramov/Desktop/HW_Seminar3_C#/Zadacha21/obj/Debug/net6.0/Zadacha21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimbayramov/Desktop/HW_Seminar3_C#/Zadacha21/obj/Debug/net6.0/Zadacha21.AssemblyInfoInputs.cache
+/Users/vadimbayramov/Desktop/HW_Seminar3_C#/Zadacha21/obj/Debug/net6.0/Zadacha21.AssemblyInfo.cs
+/Users/vadimbayramov/Desktop/HW_Seminar3_C#/Zadacha21/obj/Debug/net6.0/Zadacha21.csproj.CoreCompileInputs.cache
+/Users/vadimbayramov/Desktop/HW_Seminar3_C#/Zadacha21/bin/Debug/net6.0/Zadacha21
+/Users/vadimbayramov/Desktop/HW_Seminar3_C#/Zadacha21/bin/Debug/net6.0/Zadacha21.deps.json
+/Users/vadimbayramov/Desktop/HW_Seminar3_C#/Zadacha21/bin/Debug/net6.0/Zadacha21.runtimeconfig.json
+/Users/vadimbayramov/Desktop/HW_Seminar3_C#/Zadacha21/bin/Debug/net6.0/Zadacha21.dll
+/Users/vadimbayramov/Desktop/HW_Seminar3_C#/Zadacha21/bin/Debug/net6.0/Zadacha21.pdb
+/Users/vadimbayramov/Desktop/HW_Seminar3_C#/Zadacha21/obj/Debug/net6.0/Zadacha21.dll
+/Users/vadimbayramov/Desktop/HW_Seminar3_C#/Zadacha21/obj/Debug/net6.0/refint/Zadacha21.dll
+/Users/vadimbayramov/Desktop/HW_Seminar3_C#/Zadacha21/obj/Debug/net6.0/Zadacha21.pdb
+/Users/vadimbayramov/Desktop/HW_Seminar3_C#/Zadacha21/obj/Debug/net6.0/Zadacha21.genruntimeconfig.cache
+/Users/vadimbayramov/Desktop/HW_Seminar3_C#/Zadacha21/obj/Debug/net6.0/ref/Zadacha21.dll
